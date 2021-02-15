@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/agdavid/fn-redirects-script/issues"
   },
-  "homepage": "https://github.com/agdavid/fn-redirects-script#readme"
+  "homepage": "https://github.com/agdavid/fn-redirects-script#readme",
+  "dependencies": {
+    "node-csv": "^0.1.2"
+  }
 }
