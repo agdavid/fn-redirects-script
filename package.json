@@ -1,0 +1,24 @@
+{
+  "name": "fn-redirects-script",
+  "version": "1.0.0",
+  "description": "CSV parser to create Algolia Rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agdavid/fn-redirects-script.git"
+  },
+  "keywords": [
+    "csv",
+    "algolia",
+    "rules"
+  ],
+  "author": "@agdavid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agdavid/fn-redirects-script/issues"
+  },
+  "homepage": "https://github.com/agdavid/fn-redirects-script#readme"
+}
