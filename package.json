@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/agdavid/fn-redirects-script#readme",
   "dependencies": {
+    "csv-parse": "^4.15.1",
     "node-csv": "^0.1.2"
   }
 }
